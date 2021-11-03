@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mkejriwal270
+- 👋 Hi, I’m Milind Kejriwal
 - 👀 I’m interested in Cloud Technologies, Application Architecture, DevOps & IoT
 - 🌱 I’m currently learning application deployment and workload management in Kubernetes
 - 💞️ I’m looking to collaborate on Open-Source IoT
